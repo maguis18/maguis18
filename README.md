@@ -1,6 +1,6 @@
 Hi 👋 My name is Magui
 
-Actualmente me encuentro cursando el tercer semestre de Ingenieria en Tecnologias de la Información en la Benemérita Universidad Autónoma de Puebla (BUAP), me apasiona el mundo de la tecnología y la innovación. A mis 19 años, he adquirido experiencia en C++, HTML, CSS y R, además de tener conocimientos básicos en JavaScript y React.
+Actualmente me encuentro cursando el quinto semestre de Ingenieria en Tecnologias de la Información en la Benemérita Universidad Autónoma de Puebla (BUAP), me apasiona el mundo de la tecnología y la innovación. A mis 19 años, he adquirido experiencia en C++, HTML, CSS y R, además de tener conocimientos básicos en JavaScript y React.
 
 Ando en todos lados menos en mi casa xd, disfruto asistir a eventos, conocer gente y aprender de otros profesionales y estudiantes.
 
